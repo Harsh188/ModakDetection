@@ -1,6 +1,7 @@
 # ModakDetection
 
 ##Summary##
+
 When given the task of having to develop a modak detection software using tensorflow/keras/pytorch, I was first overwhelemed since I had no prior knowledge with working with such libraries. I decided that this program would behave somewhat similar to the face-recognition software I wrote in openCV and decided to take up the challange. A majority of the first day was spent reasearching about object-detection using tensorflow as well as getting it set up on my laptop. This was also the longest process since I was trying to develop a base model in my head on how to proceed with the assignment. After finding a tutorial on youtube I decided to follow his steps inorder to create my own modak detection software while following his guidelines. This is where I ran into several issues with the new Tensorflow 2.0 update. After going through github issues and stackover flow I managed to solve a majority of the software problems. Little did I know that when it came time for testing, the test.py file I was using had several compatiability issues. Overall, I would say that this assignment helped me learn a lot of new things. Although I failed to get the model working on time, I will surely be working on this project trying to get it to work.
 
 ##Steps:##
