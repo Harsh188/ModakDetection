@@ -1,0 +1,26 @@
+<annotation>
+	<folder>train</folder>
+	<filename>images77.jpg</filename>
+	<path>C:\Tensorflow1\models\research\object_detection\images\train\images77.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>343</width>
+		<height>147</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>modak</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>152</xmin>
+			<ymin>2</ymin>
+			<xmax>299</xmax>
+			<ymax>143</ymax>
+		</bndbox>
+	</object>
+</annotation>
